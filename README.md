@@ -47,6 +47,9 @@ if (pid == 0) {
 
 
 ##OUTPUT
+
+
+
 <img width="356" height="124" alt="image" src="https://github.com/user-attachments/assets/1128a638-e0b6-417b-8115-c13cfc14e80f" />
 
 
@@ -116,6 +119,10 @@ return 0;
 
 
 ##OUTPUT
+
+
+
+
 <img width="666" height="312" alt="image" src="https://github.com/user-attachments/assets/329ee66b-e888-41d1-a61b-786c55fd1ae6" />
 
 
